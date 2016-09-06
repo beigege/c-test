@@ -1,0 +1,1 @@
+使用方法：下载插件后，保存到任何目录，运行VC6，点击菜单“Tools”－“Customize”，选择“Add-ins and Macro Files”页，点击“Browse”，选择这个插件的dll文件，即可。
