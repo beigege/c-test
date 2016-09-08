@@ -31,3 +31,15 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+Debug/
+*.ilk
+*.obj
+*.pch
+*.pdb
+
